@@ -39,6 +39,6 @@ pip install -r requirements.txt
 ## Team Contributions
 
 
-# Women's E-Commerce Clothing Reviews — AAI 501 Final Team Project
+#  AAI 520 Final Team Project
 
 ## Project objective
