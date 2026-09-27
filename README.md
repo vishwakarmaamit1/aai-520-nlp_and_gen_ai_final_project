@@ -1,7 +1,7 @@
 # AAI-520 Final Project — 
 
-**Course:** AAI-520-IN2 — Introduction to Natural Language Processing and GenAI
-**Team:** Group 7
+**Course:** AAI-520-IN2 — Introduction to Natural Language Processing and GenAI \
+**Team:** Group 7 \
 **Members:** Rajkumar T, Amit Vishwakarma  
 
 ---
